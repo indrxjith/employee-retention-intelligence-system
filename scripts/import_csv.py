@@ -5,7 +5,7 @@ from sqlalchemy.engine import URL
 
 # PostgreSQL connection details
 username = "postgres"
-password = "@Ilikemusic123"
+password = ""
 host = "localhost"
 port = 5433
 database = "employee_retention"
